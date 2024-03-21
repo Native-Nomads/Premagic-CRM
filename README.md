@@ -27,7 +27,3 @@ Upon installation, users can log in using their Premagic CRM credentials. The ap
 ## Contributing
 
 Contributions to the development of the Premagic Cross-Platform CRM Mobile App are welcome! Please refer to our contribution guidelines for more information on how to get involved.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).

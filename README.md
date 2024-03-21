@@ -1,5 +1,12 @@
 # Premagic Cross-Platform CRM Mobile App
 
+<img
+      src="./UI Designs/953shots_so.png"
+      alt="Full Images"
+      height="600"
+    />
+  <br>
+
 ## Problem Statement
 
 Premagic provides specialized tools, including a CRM system, for photographers and event organizers. Despite being available as a progressive web app (PWA), accessing the CRM on mobile devices poses challenges. The web-based interface on smaller screens leads to usability issues and inefficiencies. This results in frustration and delays for team members in completing tasks, affecting their overall CRM experience. To solve these problems, we need an Android CRM application.

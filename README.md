@@ -5,9 +5,8 @@
 <img
       src="./UI Designs/953shots_so.png"
       alt="Full Images"
-      height="600"
+      style="max-width: 100%; height: auto;"
     />
-  <br>
 </div>
 
 ## Problem Statement

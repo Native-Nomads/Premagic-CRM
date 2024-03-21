@@ -1,6 +1,6 @@
 <div align="center">
       
-# Premagic Cross-Platform CRM Mobile App
+# Premagic Customer Relationship Management System
 
 <img
       src="./UI Designs/953shots_so.png"

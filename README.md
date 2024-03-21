@@ -1,3 +1,5 @@
+<div align="center">
+      
 # Premagic Cross-Platform CRM Mobile App
 
 <img
@@ -6,6 +8,7 @@
       height="600"
     />
   <br>
+</div>
 
 ## Problem Statement
 
